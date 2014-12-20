@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 // T420
+// SUMSUNG
 
 public class QuizActivity extends Activity {
 
